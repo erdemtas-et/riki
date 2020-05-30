@@ -1,0 +1,119 @@
+/*Title CSS*/
+
+#title{
+    
+    background-color:#f8f3eb;
+}
+
+.navbar li{
+    font-size: 1.5rem;
+    font-weight: bold;
+   
+    padding-right: 10%;
+}
+
+.navbar{
+    margin-right: 100px;
+}
+
+#title div img{
+    
+    width: 35%;
+    border-radius: 14%;
+    transform: rotate(20deg);
+    margin-left: 200px;
+    
+}
+.instagram-logo{
+    transform: rotate(0deg);
+    width: 2rem;
+
+}
+
+#title h1{
+    font-family: 'Righteous', cursive;
+    padding: 7% 15%;
+    line-height: 2;
+    text-align: center;
+    font-size: 50px;
+    
+}
+
+.logo{
+    padding: 7% 30%;
+    
+}
+
+/* Interest CSS */
+
+#interests{
+    
+    text-align: center;
+}
+
+#interests h2{
+    margin-top: 60px;
+    font-family: 'Righteous', cursive;
+    
+}
+
+.card{
+    border:0px;
+}
+
+.card-deck{
+    padding: 5% 15%;
+    
+}
+
+.card-deck img{
+    width: 100%;
+    height: auto;
+    text-align: center;
+    border-radius: 5%;
+    
+}
+
+.card-text{
+    font-family: 'Lato', sans-serif;
+}
+
+/*My PHOTOS*/
+#photos{
+    text-align: center;
+    background-color: #FFF0AA;
+   
+    
+}
+
+
+#photos h2{
+     margin-top: 60px;
+    font-family: 'Righteous', cursive;
+    padding-top: 5%;
+}
+
+.carousel-item img{
+    padding: 5% 20%;
+    width: 70%;
+    height: 50%;
+}
+.edit-img{
+    border-radius: 10%;
+}
+
+
+
+/* FOOTER */
+
+
+#contact{
+    text-align: center;
+    padding: 1% 1%;
+    
+}
+
+
+
+/*INSTAGRAM LOGO */
+
